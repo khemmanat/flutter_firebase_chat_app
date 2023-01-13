@@ -1,6 +1,7 @@
 # flutter_firebase_chat_app
 
-A new Flutter project.
+Flutter chat app which use Firebase Authentication and Firebase Firestore to manage this app.
+Make a streaming chat app using Firestore to keep messages for each group.
 
 ## Getting Started
 
